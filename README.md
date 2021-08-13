@@ -1,3 +1,1 @@
-- 👋  Hi, I’m @CodingMike15
-- 👀  I’m interested in game development
-- 🌱  I’m currently learning Python and Godot
+- 👋  Hi, I’m @CodingMike15. I know to code in Python and I'm currently learning Flask.
