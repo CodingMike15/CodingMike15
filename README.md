@@ -1,1 +1,1 @@
-- 👋  Hi, I’m @CodingMike15. I know to code in Python and I'm currently learning Flask.
+- 👋  Hi, I’m @CodingMike15. 
